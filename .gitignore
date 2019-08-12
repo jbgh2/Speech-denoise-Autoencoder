@@ -1,4 +1,9 @@
 *.pyc
+*.exe
+
 logs/
 data/
+model/
+
+
 .ipynb_checkpoints/*.ipynb
